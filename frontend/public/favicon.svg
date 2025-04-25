@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>Water Drop Favicon</title>
+    <g id="Water-Drop-Favicon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M16,4 C22.667,11.333 26,16.563 26,19.625 C26,24.844 21.544,29 16,29 C10.456,29 6,24.844 6,19.625 C6,16.563 9.333,11.333 16,4 Z" id="Drop-Shape" fill="#3B82F6" fill-rule="nonzero"></path>
+        <path d="M13,18.5 C14.657,18.5 16,17.157 16,15.5 C16,13.843 13,10 13,10 C13,10 10,13.843 10,15.5 C10,17.157 11.343,18.5 13,18.5 Z" id="Highlight" fill="#93C5FD" fill-rule="nonzero"></path>
+    </g>
+</svg>

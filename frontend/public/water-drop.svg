@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>Water Drop</title>
+    <g id="Water-Drop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M256,64 C362.7,181.3 416,265 416,314 C416,397.5 344.7,464 256,464 C167.3,464 96,397.5 96,314 C96,265 149.3,181.3 256,64 Z" id="Drop-Shape" fill="#3B82F6" fill-rule="nonzero"></path>
+        <path d="M208,296 C234.5,296 256,274.5 256,248 C256,221.5 208,160 208,160 C208,160 160,221.5 160,248 C160,274.5 181.5,296 208,296 Z" id="Highlight" fill="#93C5FD" fill-rule="nonzero"></path>
+    </g>
+</svg>
