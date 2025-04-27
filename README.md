@@ -1,4 +1,4 @@
-Water Reminder Button
+### Water Reminder Button
 Main Idea
 The Water Reminder Button is a mobile application designed to encourage users to stay hydrated by simply tapping a button to log their water intake. The app serves as a fun, engaging way to remind users to drink water, helping them develop a healthy habit.
 
